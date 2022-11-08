@@ -1,4 +1,5 @@
 # My_data_science_projects
+
 From the [Skillfactory Data Science course](https://skillfactory.ru/data-scientist)
 
 ## Проекты
@@ -7,4 +8,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 1. _____](____)
 * [Проект 2. _____](____)
 
-
+## Ссылки на резюме
