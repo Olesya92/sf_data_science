@@ -131,3 +131,7 @@ dmypy.json
 ._*
 
 /project-1/data/dst-3.0_16_1_hh_database.csv
+/project-3/data/submission.csv
+/project-3/data/hotels_test.csv
+/project-3/data/hotels_train.csv
+/project-3/data/hotels.csv
