@@ -7,5 +7,6 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 0. Игра: Угадай число](https://github.com/Olesya92/sf_data_science/tree/main/project_0)
 * [Проект 1. Анализ резюме из HeadHunter](https://github.com/Olesya92/sf_data_science/tree/main/project-1)
 * [Проект 2. Анализ резюме из HeadHunter](https://github.com/Olesya92/sf_data_science/tree/main/project-2)
+* [Проект 3. EDA + Feature Engineering. ](https://github.com/Olesya92/sf_data_science/tree/main/project-3)
 
 ## Ссылки на резюме
